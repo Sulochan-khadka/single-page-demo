@@ -1,0 +1,84 @@
+.navbar-container {
+  color: #eb1700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 0px 8px 8px;
+}
+
+.non-title {
+  margin-right: auto;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-left: 7px;
+}
+.menu-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 55px;
+  width: 82px;
+  font-size: 38px;
+}
+
+.menu {
+  font-size: 14px;
+  font-family: 'Karbon Medium';
+  padding: 0px 4px;
+  margin: 0px 4px;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 178px;
+  height: 55px;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  margin-left: 12px;
+}
+
+.search {
+  font-size: 25px;
+  font-family: 'Karbon Medium';
+  margin-right: auto;
+  margin-left: 30px;
+}
+
+.search-icon {
+  font-size: 30px;
+  margin-top: 12px;
+  margin-right: 12px;
+}
+
+.location {
+  font-family: 'Karbon medium';
+  font-size: 14px;
+  margin-left: 27px;
+  margin-right: 20px;
+}
+
+.line {
+  width: 0px;
+  height: 20px;
+  border: 0.5px solid #eb1700;
+  margin-right: 20px;
+}
+.language {
+  font-family: 'Karbon medium';
+  font-weight: 10;
+  font-size: 14px;
+}
+
+.light {
+  font-family: 'Karbon-Regular';
+}
+
+.title {
+  font-family: 'Karbon medium';
+  font-size: 30px;
+  margin-right: 28px;
+}
